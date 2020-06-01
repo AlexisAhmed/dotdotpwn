@@ -1,4 +1,4 @@
-#!/usr/bin/perl5.26.1
+#!/usr/bin/perl5.26-x86_64-linux-gnu
 # DotDotPwn - The Directory Traversal Fuzzer
 # Copyright (C) 2012 Christian Navarrete and Alejandro Hernandez H.
 #
